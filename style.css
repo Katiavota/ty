@@ -1,0 +1,53 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Noto Sans', sans-serif;
+}
+.container {
+display: flex;
+  justify-content: space-between;
+  background-color: #7FDD7D;
+  height: 100px;
+  align-items: center;
+  border-radius: 30px;
+  }
+.box {
+  background-color: #58FF59;
+  width: 280px;
+  /* height: 60px; */
+  margin: 5px;
+  border: 1px solid #58FF59;
+  border-radius: 40px;
+  text-align: center;
+  }
+.box:hover{
+  background-color: #7FDD7D;
+}
+body{
+  background-color: #BBFFB2;
+ 
+   }
+P {
+text-align: left ;
+  }
+.pizza{
+  width: 60%;
+  text-align: justify;
+  padding: 30px;
+
+}
+.video{
+  margin: 50px;
+}
+.general{
+  display: flex;
+}
+.lol{
+  text-align: center;
+  background-color: #7FDD7D;
+  border-radius: 30px;
+  height: 100px;
+   align-items: center;
+  width: 1600;
+  padding: 15px;
+  }
